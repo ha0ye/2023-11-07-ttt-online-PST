@@ -5,7 +5,7 @@
 This is the repository for the website hosting the Instructor Training held on 2023 November 07-08 0900-1700 PT virtually.
 
 The website link is https://ha0ye.github.io/2023-11-07-ttt-online-PST/ 
-The etherpad is https://pad.carpentries.org/2023-11-07-ttt-online-PST/
+The etherpad is https://pad.carpentries.org/2023-11-07-ttt-online-PST
 
 ## Code of Conduct
 
